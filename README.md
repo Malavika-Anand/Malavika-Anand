@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malavika-Anand
 - 👀 I’m interested in Web Development and Cyber Security.
-- 🌱 I'm a 3rd year BE student pursuing Information Science and Security.
+- 🌱 I'm a 3rd year engineering student pursuing BE in Information Science and Engineering.
 
 
 <!---
