@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Malavika-Anand
-- 👀 I’m interested in Web Development and Cyber Security.
+- 👀 I’m interested in Computer Networks and Cyber Security.
 - 🌱 Completed BE in Information Science and Engineering.
+- Looking towards pursuing MS in Computer Science.
 
 
 <!---
